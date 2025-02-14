@@ -1,0 +1,130 @@
+.row .main{
+height: 900px;
+background: #292929;
+
+}
+.row .image{
+    width: 710px;
+height: 900px;
+left: 720px;
+
+    background-image: url('image\ \(3\).svg');
+    background-size: cover;
+}
+.row .main .heading{
+height: 84px;
+gap: 10px;
+padding-top: 20px;
+padding-right: 80px;
+padding-bottom: 20px;
+padding-left: 80px;
+
+}
+.row .main .heading img{
+    width: 150px;
+    height: 32.845191955566406px;
+    gap: 10px;
+}
+.row .main .firstpart{
+    width: 466px;
+height: 299px;
+gap: 32px;
+position: relative;
+top: 20px;
+left: 60px;
+}
+.row .main .firstpart .buttons{
+    width: 466px;
+height: 51px;
+display: flex;
+justify-content: center;
+}
+.row .main .firstpart .buttons button{
+    width: 118px;
+    height: 51px;
+    gap: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    border: none;
+    font-family: Rajdhani;
+    font-size: 24px;
+    font-weight: 600;
+}
+.row .main .firstpart .formarea{
+    width: 466px;
+height: 216px;
+gap: 12px;
+}
+.row .main .firstpart .formarea .nameFeild{
+    width: 466px;
+    height: 48px;
+    background: none;
+    border: 1px solid #FFFFFF33;
+    color:white;
+}
+form div{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.row .main .secondpart{
+    width: 466px;
+height: 223px;
+gap: 32px;
+padding-top: 40px;
+position: relative;
+top: 80px;
+left: 60px;
+}
+.row .main .secondpart .b1{
+    width: 466px;
+height: 52px;
+gap: 16px;
+padding-top: 16px;
+padding-right: 38px;
+padding-bottom: 16px;
+padding-left: 38px;
+background: #EBA832;
+border: none;
+}
+.row .main .secondpart .line{
+    width: 466px;
+height: 20px;
+gap: 10px;
+color: #FEFEFE;
+padding-top: 20px;
+text-align: center;
+}
+.row .main .secondpart .b2{
+    width: 466px;
+height: 52px;
+gap: 16px;
+padding-top: 16px;
+padding-right: 38px;
+padding-bottom: 16px;
+padding-left: 38px;
+background: #fff;
+border: none;
+}
+.row .main .secondpart .lasttext span p{
+    font-family: Open Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 19.07px;
+letter-spacing: 0%;
+text-align: center;
+color: #fff;
+}
+.row .main .secondpart .lasttext button{
+    font-family: Open Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 19.07px;
+letter-spacing: 0%;
+text-align: center;
+color: #EBA832;
+background-color: #292929;
+border: none;
+padding-top: 40px;
+}
